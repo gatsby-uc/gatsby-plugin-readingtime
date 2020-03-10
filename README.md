@@ -11,7 +11,7 @@ Get reading time estimates for any content from any source in your Gatsby projec
 
 ## config
 
-```js gatsby-node.js 
+```js:title=gatsby-config.js
 {
   plugins: [
     {
