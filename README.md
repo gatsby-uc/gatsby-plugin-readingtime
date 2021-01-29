@@ -1,4 +1,4 @@
-![npm](https://img.shields.io/npm/v/gatsby-plugin-readingtime)
+[![npm](https://img.shields.io/npm/v/gatsby-plugin-readingtime)](https://www.npmjs.com/package/gatsby-plugin-readingtime)
 
 # gatsby-plugin-readingtime
 
