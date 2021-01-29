@@ -1,3 +1,5 @@
+![npm](https://img.shields.io/npm/v/gatsby-plugin-readingtime)
+
 # gatsby-plugin-readingtime
 
 Get reading time estimates for any content from any source in your Gatsby project's GraphQL schema.
